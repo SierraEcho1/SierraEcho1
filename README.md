@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SierraEcho1
-- 👀 I’m interested in getting into Data Analytics & Development
-- 🌱 I’m currently learning Data Analystics
+- 👀 Data & Development enthusiast
+- 🌱 I’m currently learning Data Analystics & working in HR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
